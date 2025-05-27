@@ -4,7 +4,7 @@
     "showName": "",
     "appid": "",
     "icon": "",
-    "iconRound": true,
+    "iconRound": false,
     "state": true,
     "single": true,
     "injectJq": true,
