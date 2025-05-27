@@ -120,11 +120,11 @@
         "debug": false
     },
     "android": {
-        "name": "SillyTavern",
-        "showName": "SillyTavern",
+        "name": "CloudSillyTavern",
+        "showName": "CloudSillyTavern",
         "version": "0.0.1",
-        "webUrl": "http://127.0.0.1:8000",
-        "id": "com.sillytavern.android",
+        "webUrl": "https://shangeng-sillytavern.hf.space",
+        "id": "com.cloudsillytavern.android",
         "icon": "./app-icon.png",
         "input": "./app-icon.png",
         "output": "./res",
@@ -132,7 +132,7 @@
         "copyTo": "./app/src/main/res",
         "androidResDir": "./app/src/main/res",
         "desc": "SillyTavern Project by waves",
-        "pubBody": "SillyTavern android build body",
+        "pubBody": "CloudSillyTavern android build body",
         "isHtml": false,
         "debug": false
     },
